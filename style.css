@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.first{
+    margin-top: 10%;
+    border: 2px solid red  ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.first .text{
+    width: 50%;
+}
+.first .text h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fisrt .image{
+    width:50%; 
+}
+.first .image img{
+    margin-right: 30% ;  
+    height: 50vh;
+    border-radius: 10px;
+    width: 100%;
+}
